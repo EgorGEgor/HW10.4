@@ -24,7 +24,7 @@
 *В качестве результата пришлите:*
 
 ### *1. Terraform Playbook.*
-#### Terraform: [main.tf](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/10.%20Отказоустойчивость/04.%20Отказоустойчивость%20в%20облаке/screenshots-and-files/main.tf)
+#### Terraform: (https://github.com/EgorGEgor/HW10.4/blob/main/main.tf)
 ```bash
 terraform {
   required_providers {
