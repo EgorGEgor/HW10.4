@@ -142,7 +142,3 @@ output "external_ip_address_vm_1" {
 ### *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
 ![2](https://github.com/user-attachments/assets/9bd18edf-f36b-4a3b-a8ad-cb939146db9d)
 
-
-
-
----# HW10.4
