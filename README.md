@@ -137,11 +137,12 @@ output "external_ip_address_vm_1" {
 }
 ```
 ### *2. Скриншот статуса балансировщика и целевой группы.*
-![png]()
+<img width="517" alt="1" src="https://github.com/user-attachments/assets/852e2868-dd26-4df2-be53-71b3a2cb2c28" />
 
 ### *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
+![2](https://github.com/user-attachments/assets/9bd18edf-f36b-4a3b-a8ad-cb939146db9d)
 
-![png]()
-![png]()
+
+
 
 ---# HW10.4
